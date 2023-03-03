@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="931fffdf-538b-4d8d-903e-4fb617a2a73f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/.github/workflows/manual.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/.gitlab-ci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/docs/README_Linux.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/docs/README_Windows.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/docs/images/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/docs/images/aventstack_report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/docs/images/bbd_report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/docs/images/cards_report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/docs/images/extentReportExample.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/docs/img/Grid_Console.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/docs/img/Zalenium_Console.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/docs/img/Zalenium_Dashboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/docs/img/architecture_web_lippia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/docs/img/aventstack_report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/docs/img/bbd_report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/docs/img/cards_report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/docs/img/chromeDesktopNovnc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/docs/img/gherkin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/docs/img/jenkins.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/docs/img/jenkins_job_build.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/docs/img/jenkins_start_job.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/docs/img/reporteExtent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/extent-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/lippia_docker_web_readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/local-docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/src/main/java/lippia/web/constants/GoogleConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/src/main/java/lippia/web/constants/PracticeAutomationTestingConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/src/main/java/lippia/web/reporters/CucumberReporter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/src/main/java/lippia/web/services/CommonServices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/src/main/java/lippia/web/services/PracticeAutimationTestingResultService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/src/main/java/lippia/web/services/PracticeAutomationTestingHomeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/src/main/java/lippia/web/steps/PracticeAutomationTestingActionsSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/src/main/java/lippia/web/steps/commonSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/src/main/resources/browsers/chromeCapabilities.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/src/main/resources/browsers/chromeCapabilitiesGrid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/src/main/resources/browsers/firefoxCapabilities.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/src/main/resources/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/src/main/resources/cucumber.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/src/main/resources/extent.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/src/main/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/src/test/resources/web/features/PracticeAutomationTesting.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/testngParallel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lippia-web-sample-project-master/testngSecuencial.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2KqOrXHlHsMUp3PXJjFESpCoish" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/yerma/OneDrive/Documents/Crowdar/PrimerProyectoBasico"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="931fffdf-538b-4d8d-903e-4fb617a2a73f" name="Changes" comment="" />
+      <created>1674698848514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674698848514</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
